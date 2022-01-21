@@ -1,24 +1,15 @@
-# README
+Rails doc : https://guides.rubyonrails.org/getting_started.html
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bootstrap :
+```
+    gem 'jquery-rails'
+    gem 'sass-rails'
+    gem 'bootstrap-sass'
+```
 
-Things you may want to cover:
+* bundle install
 
-* Ruby version
+trobleshooting :
+https://stackoverflow.com/questions/26135126/sasssyntaxerror-file-to-import-not-found-or-unreadable-bootstrap-sprockets
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/twbs/bootstrap-rubygem

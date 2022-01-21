@@ -9,7 +9,7 @@ Bootstrap :
 
 * bundle install
 
-trobleshooting :
+troubleshooting :
 https://stackoverflow.com/questions/26135126/sasssyntaxerror-file-to-import-not-found-or-unreadable-bootstrap-sprockets
 
 https://github.com/twbs/bootstrap-rubygem

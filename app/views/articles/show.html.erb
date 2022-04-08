@@ -8,6 +8,11 @@
                     turbo_method: :delete,
                     turbo_confirm: "Are you sure?"
                   } %></li>
+                  <li> 
+                   <% if @article.image.attached? %>
+                   <%= image_tag @article.image %>
+                   <% end %>
+                   </li>
 </ul>
 
 

@@ -1,13 +1,16 @@
+## Rails Blog App <demo>
+
 Rails doc : https://guides.rubyonrails.org/getting_started.html
 
 Bootstrap :
+
 ```
     gem 'jquery-rails'
     gem 'sass-rails'
     gem 'bootstrap-sass'
 ```
 
-* bundle install
+- bundle install
 
 troubleshooting :
 https://stackoverflow.com/questions/26135126/sasssyntaxerror-file-to-import-not-found-or-unreadable-bootstrap-sprockets
